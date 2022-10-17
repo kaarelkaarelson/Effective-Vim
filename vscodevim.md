@@ -7,9 +7,14 @@ enter into insert mode: `i`
 
 enter into normal mode: `kj`
 
+#### Navigation
 go to the first line of the file: `gg`
 
-got to the last line of the file: `Shift + g`
+go to the last line of the file: `Shift + g`
+
+go to the begginning of the current line: `0`
+
+go to the end of the current line: `Shift + $`
 
 undo tab: `Shift+tab` (tab manually allowed in the keybindings for VSCode)
 
