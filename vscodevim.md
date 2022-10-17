@@ -11,7 +11,7 @@ got to the last line of the file: `Shift + g`
 
 undo tab: `Shift+tab` (tab manually allowed in the keybindings for VSCode)
 
-create a new line after the line cursor is on: `o`
+create a new line under: `o`
 ### Insert mode
 enter into insert mode: `i`
 
