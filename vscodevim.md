@@ -7,6 +7,7 @@ enter into normal mode: `kj`
 
 go to the first line of the file: `gg`
 
+undo tab: `shift+tab` (tab manually allowed in the keybindings for VSCode)
 
 ### Insert mode
 enter into insert mode: `i`
