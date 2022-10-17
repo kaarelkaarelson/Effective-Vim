@@ -6,6 +6,7 @@ enter into insert mode: `i`
 enter into normal mode: `kj`
 
 #### Navigation
+go to the next word: `w` (left-to-right)
 go to the first line of the file: `gg`
 
 go to the last line of the file: `Shift + g`
