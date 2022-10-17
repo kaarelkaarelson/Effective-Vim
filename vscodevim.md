@@ -21,7 +21,7 @@ highlight a line: `Shift + V`
 delete a line: `dd`
 
 ### Print (Same as paste?)
-print from clipboard: ´p´
+print from clipboard: `p`
 
 ### Sidebar
 open extensions tab: `Ctrl + Shift + X`
