@@ -9,7 +9,7 @@ go to the first line of the file: `gg`
 
 got to the last line of the file: `Shift + g`
 
-undo tab: `shift+tab` (tab manually allowed in the keybindings for VSCode)
+undo tab: `Shift+tab` (tab manually allowed in the keybindings for VSCode)
 
 create a new line after the line cursor is on: `o`
 ### Insert mode
