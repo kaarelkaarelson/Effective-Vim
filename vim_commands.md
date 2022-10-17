@@ -24,6 +24,8 @@ copy a line: `yy` -> yank
 #### Delete 
 delete a line: `dd`
 
+delete a character: `dw`
+
 delete before on a line (the **back** of the line): `db`
 
 delete after a line (until the **end**): `de`
@@ -36,7 +38,7 @@ Undo a change: `u` -> `Ctrl + Z`
 
 #### Paste
 
-paste a line: `p`
+paste a line: `p` or `Ctrl + P` (What is the difference?)
 
 highlight a line: `Shift + V`
 
