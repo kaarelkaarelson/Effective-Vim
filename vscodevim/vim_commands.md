@@ -1,5 +1,3 @@
-# VSCode Vim
-
 ## Vim commands
 
 ### Visual mode (Normal mode)
