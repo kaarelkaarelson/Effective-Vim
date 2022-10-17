@@ -26,6 +26,10 @@ delete after a line (until the **end**): `de`
 
 delete {digit} number of lines after the current line: `{digit} + dd`
 
+#### Undo
+
+Undo a change: `u` -> `Ctrl + Z`  
+
 #### Paste
 
 paste a line: `p`
