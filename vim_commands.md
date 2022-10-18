@@ -42,13 +42,3 @@ paste a line: `p` or `Ctrl + P` (What is the difference?)
 
 highlight a line: `Shift + V`
 
-### Sidebar
-open extensions tab: `Ctrl + Shift + X`
-
-open command bar: `Ctrl + Shift + P` 
-
-## VScode settings
-open keybindings.json file: open command bar -> type 'keyboard shortcuts'
-
-opent settings.json file: open command bar -> type 'open user settings'
-
