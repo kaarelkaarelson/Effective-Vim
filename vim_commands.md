@@ -1,52 +1,50 @@
 ## Vim commands for VSCode
 
 ### Visual mode (Normal mode)
-enter into insert mode: `i`
+Enter into insert mode: `i`
 
-enter into normal mode: `kj`
+Enter into normal mode: `kj`
 
 #### Navigation
-go to the next word: `w` (left-to-right)
-go to the first line of the file: `gg`
+Go to the next word: `w` (left-to-right)
+Go to the first line of the file: `gg`
 
-go to the last line of the file: `Shift + g`
+Go to the last line of the file: `Shift + g`
 
-go to the begginning of the current line: `0`
+Go to the begginning of the current line: `0`
 
-go to the end of the current line: `$`
+Go to the end of the current line: `$`
 
-undo tab: `Shift+tab` (tab manually allowed in the keybindings for VSCode)
+Undo tab: `Shift+tab` (tab manually allowed in the keybindings for VSCode)
 
-create a new line under: `o`
+Create a new line under: `o`
 
 #### Copying (yanking)
-copy a line: `yy` -> yank
+Copy a line: `yy` -> yank
 
-copy the current word: `yiw`
+Copy the current word: `yiw`
 
-copy everything from the cursor to the end of the line: `y$`
+Copy everything from the cursor to the end of the line: `y$`
 
-copy everything from the cursor to the start of the line `y^`
+Copy everything from the cursor to the start of the line `y^`
 #### Delete 
-delete a line: `dd`
+Delete a line: `dd`
 
-delete a word: `dw`
+Delete a word: `dw`
 
-copy everything from the cursor to the end of the line: `y$`
+Delete before on a line (the **back** of the line): `db`
 
-delete before on a line (the **back** of the line): `db`
+Delete after a line (until the **end**): `de`
 
-delete after a line (until the **end**): `de`
-
-delete {digit} number of lines after the current line: `{digit} + dd`
+Delete {digit} number of lines after the current line: `{digit} + dd`
 
 #### Undo
 
 Undo a change: `u` -> `Ctrl + Z`  
 
-#### Paste
+#### PPste
 
-paste a line: `p` or `Ctrl + P` (What is the difference?)
+Paste a line: `p` or `Ctrl + P` (What is the difference?)
 
-highlight a line: `Shift + V`
+Highlight a line: `Shift + V`
 
