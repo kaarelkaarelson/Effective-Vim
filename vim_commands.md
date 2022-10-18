@@ -13,14 +13,20 @@ go to the last line of the file: `Shift + g`
 
 go to the begginning of the current line: `0`
 
-go to the end of the current line: `$`
+go to the end of the current line: `$^`
 
 undo tab: `Shift+tab` (tab manually allowed in the keybindings for VSCode)
 
 create a new line under: `o`
 
+#### Copying (yanking)
 copy a line: `yy` -> yank
 
+copy the current word: `yiw`
+
+copy everything from the cursor to the end of the line: `y$`
+
+copy everything from the cursor to the start of the line `y`
 #### Delete 
 delete a line: `dd`
 
