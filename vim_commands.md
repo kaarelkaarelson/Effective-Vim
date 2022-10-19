@@ -42,9 +42,22 @@ Delete after a line (until the **end**): `de`
 
 Delete {digit} number of lines after the current line: `{digit} + dd`
 
+#### Joining
+Join x lines together (meaning delete '\n' symbols from each of these lines): `{digit} + J`
+
+![image](https://user-images.githubusercontent.com/90053205/196723942-0c99e27e-290f-4692-96c4-778b510dbe36.png)
+
+![image](https://user-images.githubusercontent.com/90053205/196724539-0368b64a-d929-4ae1-841b-fbf97bb2bd0f.png)
+
+(*Here command `5+j` was used*)
+
+
+
+
+
 #### Undo
 
-Undo a change: `u` -> `Ctrl + Z`  
+Undo a change: `u` -> `Ctrl + z`  
 
 #### Paste
 
