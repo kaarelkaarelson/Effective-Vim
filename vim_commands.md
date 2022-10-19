@@ -32,7 +32,9 @@ Copy everything from the cursor to the start of the line `y^`
 #### Delete 
 Delete a line: `dd`
 
-Delete a word: `dw`
+Delete the selected word: `diw`
+
+Delete a word after cursor: `dw`
 
 Delete before on a line (the **back** of the line): `db`
 
