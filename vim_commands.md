@@ -42,6 +42,9 @@ Delete after a line (until the **end**): `de`
 
 Delete {digit} number of lines after the current line: `{digit} + dd`
 
+#### Refactoring
+Change the number inside a variable: `Ctrl + a` -> turns `int start1` to `int start2` (might be intellij) feature
+ 
 #### Joining
 Join x lines together (meaning delete '\n' symbols from each of these lines): `{digit} + J`
 
