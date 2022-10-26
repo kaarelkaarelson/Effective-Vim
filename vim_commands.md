@@ -18,6 +18,11 @@ Go to the end of the current line: `$`
 Undo tab: `Shift+tab` (tab manually allowed in the keybindings for VSCode)
 
 Create a new line: under `o` or before `O`
+
+### Highlighting text
+
+start highlighting text: `v` (after that you can move with `hjkl` keys)
+highlight current line: `ctrl + v`
  
 #### Copying (yanking)
 Copy a line: `yy` -> yank
@@ -43,7 +48,7 @@ Delete after a line (until the **end**): `de`
 Delete {digit} number of lines after the current line: `{digit} + dd`
 
 #### Refactoring
-Change the number inside a variable: `Ctrl + a` -> turns `int start1` to `int start2` (might be intellij) feature
+Change the number inside a variable: `Ctrl + a` -> turns `int start1` to `int start2` (might be intellij feature)
  
 #### Joining
 Join x lines together (meaning delete '\n' symbols from each of these lines): `{digit} + J`
