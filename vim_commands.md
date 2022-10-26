@@ -3,7 +3,7 @@
 ### Visual mode (Normal mode)
 Enter into insert mode: `i`
 
-Enter into normal mode: `kj`
+Enter into normal mode: `jj`
 
 #### Navigation
 Go to the next word: `w` (left-to-right)
