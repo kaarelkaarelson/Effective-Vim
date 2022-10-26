@@ -50,7 +50,9 @@ Delete {digit} number of lines after the current line: `{digit} + dd`
 #### Refactoring
 Change the number inside a variable: `Ctrl + a` -> turns `int start1` to `int start2` (might be intellij feature)
  
-#### Joining
+#### Joining and separatiing code lines
+Join current line and line below together: `Shift + j`
+Put empty line between current line and line below: `Shift + k`
 Join x lines together (meaning delete '\n' symbols from each of these lines): `{digit} + J`
 
 ![image](https://user-images.githubusercontent.com/90053205/196723942-0c99e27e-290f-4692-96c4-778b510dbe36.png)
@@ -58,7 +60,6 @@ Join x lines together (meaning delete '\n' symbols from each of these lines): `{
 ![image](https://user-images.githubusercontent.com/90053205/196724539-0368b64a-d929-4ae1-841b-fbf97bb2bd0f.png)
 
 (*Here command `5+j` was used*)
-
 
 
 
