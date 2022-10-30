@@ -7,6 +7,9 @@ Enter into normal mode: `jj`
 
 #### Navigation
 Go to the next word: `w` (left-to-right)
+
+Go back to the last word: `b` (right to left)
+
 Go to the first line of the file: `gg`
 
 Go to the last line of the file: `Shift + g`
