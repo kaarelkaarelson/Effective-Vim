@@ -22,9 +22,16 @@ Undo tab: `Shift+tab` (tab manually allowed in the keybindings for VSCode)
 
 Create a new line: under `o` or before `O`
 
+Go to the declaration of the method: `gd` (if interface method then goes to the interface class)
+ - return back from the declaration method `Ctrl + o`
+
+Go to the implementations of the method: `Ctrl + b`
+
+
 ### Highlighting text
 
 start highlighting text: `v` (after that you can move with `hjkl` keys)
+
 highlight current line: `ctrl + v`
  
 #### Copying (yanking)
