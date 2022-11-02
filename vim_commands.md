@@ -55,7 +55,9 @@ Delete before on a line (the **back** of the line): `db`
 
 Delete after a line (until the **end**): `de`
 
-Delete {digit} number of lines after the current line: `{digit} + dd`
+Delete {n} lines down: `{n} + dd`
+
+Delete {n} lines up: `{n} + dk`
 
 #### Refactoring
 Change the number inside a variable: `Ctrl + a` -> turns `int start1` to `int start2` (might be intellij feature)
