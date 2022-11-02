@@ -44,6 +44,8 @@ Copy everything from the cursor to the end of the line: `y$`
 Copy everything from the cursor to the start of the line `y^`
 
 
+
+
 #### Delete 
 Delete a line: `dd`
 
