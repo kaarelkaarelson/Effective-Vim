@@ -27,6 +27,7 @@ Go to the declaration of the method: `gd` (if interface method then goes to the 
 
 Go to the implementations of the method: `Ctrl + b`
 
+Go to line {n} (relative line number): `{n} + k` or `{n} + j`
 
 ### Highlighting text
 
