@@ -50,6 +50,8 @@ Copy everything from the cursor to the start of the line `y^`
 #### Delete 
 Delete a line: `dd`
 
+Delete the character: `x`
+
 Delete the selected word: `diw`
 
 Delete a word after cursor: `dw`
