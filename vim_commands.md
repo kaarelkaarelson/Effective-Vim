@@ -10,13 +10,15 @@ Go to the next word: `w` (left-to-right)
 
 Go back to the last word: `b` (right to left)
 
-Go to the first line of the file: `gg`
-
-Go to the last line of the file: `Shift + g`
-
 Go to the begginning of the current line: `0`
 
 Go to the end of the current line: `$`
+
+Go to the character {x} after cursor on the current line: `f + {x}`
+
+Go to the first line of the file: `gg`
+
+Go to the last line of the file: `Shift + g`
 
 Undo tab: `Shift+tab` (tab manually allowed in the keybindings for VSCode)
 
