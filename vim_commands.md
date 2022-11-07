@@ -56,6 +56,8 @@ Delete the selected word: `diw`
 
 Delete a word after cursor: `dw`
 
+Delet upto symbol horizontally {x}: `dt + {x}`
+
 Delete before on a line (the **back** of the line): `db`
 
 Delete after a line (until the **end**): `de`
