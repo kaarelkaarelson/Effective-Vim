@@ -1,5 +1,7 @@
 # Vim commands for VSCode
 
+-
+
 ## Visual mode (Normal mode)
 Enter into insert mode: `i`
 
@@ -95,3 +97,10 @@ Paste a line: under `p` or before `P` (What is the difference? - lower case past
 
 Highlight a line: `Shift + V`
 
+-
+
+## Visual Block Mode
+
+### Editing multiple lines
+
+Edit vertically aligned text: `V` -> then select desired lines with `hjkl` -> go into insert mode `I` (good for inserting spaces and tabs for identation)
