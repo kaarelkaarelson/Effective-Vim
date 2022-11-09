@@ -1,11 +1,11 @@
-## Vim commands for VSCode
+# Vim commands for VSCode
 
-### Visual mode (Normal mode)
+## Visual mode (Normal mode)
 Enter into insert mode: `i`
 
 Enter into normal mode: `jj`
 
-#### Navigation
+### Navigation
 Go to the next word: `w` (left-to-right)
 
 Go back to the last word: `b` (right to left)
@@ -31,13 +31,13 @@ Go to the implementations of the method: `Ctrl + b`
 
 Go to line {n} (relative line number): `{n} + k` or `{n} + j`
 
-### Highlighting text
+## Highlighting text
 
 start highlighting text: `v` (after that you can move with `hjkl` keys)
 
 highlight current line: `ctrl + v`
  
-#### Copying (yanking)
+### Copying (yanking)
 Copy a line: `yy` -> yank
 
 Copy the current word: `yiw`
@@ -49,7 +49,7 @@ Copy everything from the cursor to the start of the line `y^`
 
 
 
-#### Delete 
+### Delete 
 Delete a line: `dd`
 
 Delete the character: `x`
@@ -68,10 +68,10 @@ Delete {n} lines down: `{n} + dd`
 
 Delete {n} lines up: `{n} + dk`
 
-#### Refactoring
+### Refactoring
 Change the number inside a variable: `Ctrl + a` -> turns `int start1` to `int start2` (might be intellij feature)
  
-#### Joining and separatiing code lines
+### Joining and separatiing code lines
 Join current line and line below together: `Shift + j`
 Put empty line between current line and line below: `Shift + k`
 Join x lines together (meaning delete '\n' symbols from each of these lines): `{digit} + J`
@@ -85,11 +85,11 @@ Join x lines together (meaning delete '\n' symbols from each of these lines): `{
 
 
 
-#### Undo
+### Undo
 
 Undo a change: `u` -> `Ctrl + z`  
 
-#### Paste
+### Paste
 
 Paste a line: under `p` or before `P` (What is the difference? - lower case pastes under the line, uppercase before the line)
 
