@@ -110,4 +110,7 @@ Add text to vertically aligned code: Enter Visual Block Mode and select desired 
 Replace vertically aligned text:  Enter Visual Block Mode and select desired lines and text -> press `c` -> type the text that you want to insert on the initial line -> `press <Esc>` (all the selected lines will update as well).
 
 ## Command line
+
 Change all occurances: Type to command line -> `:%s/foo/bar/g` wherer foo is the word you want to change, and bar is the replaced word.
+
+Find a word in document:  Type to command line -> `/.foo` wherer foo is the word you want to search.
