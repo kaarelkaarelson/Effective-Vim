@@ -1,6 +1,5 @@
 # Vim Commands 
 
--
 ## Insert mode 
 
 Enter into insert mode before a cursor: `i`
