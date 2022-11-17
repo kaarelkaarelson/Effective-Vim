@@ -4,7 +4,7 @@
 
 Enter into insert mode before a cursor: `i`
 
-Enter into insert after the cursor: `Ctrl + a`
+Enter into insert after the cursor: `Alt + a`
 
 Enter into normal mode: `jj`
 
