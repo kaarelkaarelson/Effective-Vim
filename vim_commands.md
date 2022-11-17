@@ -1,11 +1,16 @@
 # Vim Commands 
 
 -
+## Insert mode 
 
-## Visual mode (Normal mode)
-Enter into insert mode: `i`
+Enter into insert mode before a cursor: `i`
+
+Enter into insert after the cursor: `Ctrl + a`
 
 Enter into normal mode: `jj`
+
+
+## Visual mode (Normal mode)
 
 ### Navigation
 Go to the next word: `w` (left-to-right)
