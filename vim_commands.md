@@ -4,6 +4,8 @@
 
 Enter into insert mode before a cursor: `i`
 
+Enter into insert at the end of the line: `A`
+
 Enter into insert after the cursor: `Alt + a`
 
 Enter into normal mode: `jj`
