@@ -1,3 +1,3 @@
-# Vi
+# Vim
 
-Here is all my Vim study material grouped by different environments.
+Here is vim study material grouped by different usages.
