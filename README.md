@@ -6,9 +6,16 @@ It assumes no need for .vimrc file and can be followed on any vanilla vim system
 
 Currently, the project is grouped by different usages. 
 
+## Enter for different modes
+
+***Visual-block mode***: `<Ctrl> + v`
+
 ## Replace
 
-Replace all occurrences in highlighted text.
+Replace all occurrences in the document
+1. Replace the words using the command line `:%s/old-word/new-word/g`
 
-1. Select lines with visual-block mode `<Ctrl> + v`
+Replace all occurrences in the highlighted text.
+
+1. Select lines with *visual-block mode*
 2. Replace the words using the command line `:'<,'>s/old-word/new-word/`
