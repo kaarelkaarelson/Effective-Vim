@@ -10,7 +10,7 @@ Currently, the project is grouped by different usages. I will refactor it into o
 
 ***Visual-block mode***: `<Ctrl> + v`
 
-***Command line***: `<Shift> + : ` 
+***Command line***: `<Shift> + :`
 
 ## Replace
 
