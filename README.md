@@ -9,6 +9,7 @@ Currently, the project is grouped by different usages. I will refactor it into o
 ## Enter commands for modes and functionalities
 
 ***Visual-block mode***: `<Ctrl> + v`
+
 ***Command line***: `<Shift> + : ` 
 
 ## Replace
