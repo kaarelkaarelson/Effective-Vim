@@ -6,7 +6,7 @@ It assumes **no need** for .vimrc file and can be followed on any machine or edi
 
 Currently, the project is grouped by different usages. I will refactor it into one cohesive file over time. 
 
-## Enter commands for modes and functionalities
+## Enter commands
 
 ***Visual-block mode***: `<Ctrl> + v`
 
