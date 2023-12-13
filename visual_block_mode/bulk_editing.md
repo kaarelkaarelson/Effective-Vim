@@ -1,6 +1,6 @@
 # Visual Block Mode
-## Enter
-<Ctrl> + v
+
+**Enter**: `<Ctrl> + v`
 
 ## Editing multiple lines
 
